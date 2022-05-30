@@ -1,0 +1,70 @@
+.mainbody{
+    width: 45%;
+    height: 670px;
+    background-color: whitesmoke;
+    margin-left: 350px;
+    display: flex;
+}
+.left{
+    width: 30%;
+    height: 670px;
+    background-color: lightblue;
+}
+.photo{
+    width: 130px;
+    height: 100px;
+    margin: 17px;
+}
+.info{
+    background-color: lightslategray;
+}
+.mail{
+    font-size: 10px;
+    
+}
+.ht{
+    font-size: smaller;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.html{
+    height: 5px;
+    width: 90%;
+    background-color: white;
+    margin-left: 9px;
+}
+.leftside{
+    width: 100%;
+    height: 5px;
+    background-color: black;
+}
+.css{
+    height: 5px;
+    width: 90%;
+    background-color: white;
+    margin-left: 9px;
+}
+.leftside1{
+    width: 90%;
+    height: 5px;
+    background-color: black;
+}
+.bootstrap{
+    height: 5px;
+    width: 90%;
+    background-color: white;
+    margin-left: 9px;
+}
+.leftside2{
+    width: 70%;
+    height: 5px;
+    background-color: black;
+}
+.language{
+    font-size: small;
+}
+.text{
+    font-size: smaller;
+    text-align: left;
+    margin-top: 25px;
+}
